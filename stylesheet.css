@@ -1,0 +1,25 @@
+article {
+  width: 546px;
+  padding: 7px;
+}
+
+article p {
+  color: #333;
+}
+
+.example01 {
+  width: 508px;
+}
+
+.example02 {
+  width: 4000px;
+}
+
+.example03 {
+  width: 1px;
+}
+
+.example04 {
+  width: 488.97638px;
+}
+/*# sourceMappingURL=stylesheet.css.map */

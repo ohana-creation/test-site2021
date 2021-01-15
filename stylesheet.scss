@@ -1,0 +1,20 @@
+article {
+    width: 560px - 14px;
+    padding: 7px;
+    p{
+        color: #333;
+    }
+}
+//演算トレーニング
+.example01{
+    width: 500px + 8;
+}
+.example02{
+    width: 400px * 10;
+}
+.example03{
+    width: 100px % 3;//割り算の余り
+}
+.example04{
+    width: 300px + 5cm;//別の単位の演算（できない単位もある）
+}
